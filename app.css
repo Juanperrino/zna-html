@@ -386,8 +386,7 @@ body {
     }
 
     .header .nav.activ {
-        /* display: block; */
-        height: 80vh;
+        height: 52vh;
         pointer-events: auto;
     }
 
